@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Rohan Kapoor 👋
 
-<!--
-**rohankapoor0/rohankapoor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+- 🎓 B.Tech Computer Science (AI & ML) @ Atlas Skilltech University  
+- 🤖 Interested in AI systems, LLMs, and real-world applications  
+- ⚙️ Building products that combine technology with usability  
+- 📍 Mumbai, India  
+
+---
+
+## 📁 Explore My Work
+I build projects across AI, systems, and product development.  
+You can explore all of them in my GitHub repositories.
+
+---
+
+## 🌐 Connect With Me
+- 🌍 Website: (your link here)  
+- 💼 LinkedIn: (your link here)  
+- 📧 rohankapoor2460@gmail.com  
+
+---
+
+Feel free to explore my work or reach out!

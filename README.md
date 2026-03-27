@@ -18,9 +18,8 @@ You can explore all of them in my GitHub repositories.
 
 ---
 
-## 🌐 Connect With Me
-- 🌍 Website: (your link here)  
-- 💼 LinkedIn: (your link here)  
+## 🌐 Connect With Me 
+- 💼 LinkedIn: https://in.linkedin.com/in/rohan-kapoor-420689314  
 - 📧 rohankapoor2460@gmail.com  
 
 ---

@@ -19,7 +19,7 @@ You can explore all of them in my GitHub repositories.
 ---
 
 ## 🌐 Connect With Me 
-- 💼 LinkedIn: https://in.linkedin.com/in/rohan-kapoor-420689314  
+- 💼 LinkedIn: https://www.linkedin.com/in/rohankapoor0/
 - 📧 rohankapoor2460@gmail.com
 - 🌐 Website: https://rohankapoor0.github.io/portfolio/
 
